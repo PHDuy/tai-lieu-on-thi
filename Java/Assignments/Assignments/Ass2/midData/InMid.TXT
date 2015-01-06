@@ -1,0 +1,28 @@
+00107:Le Tung Anh:7:6:8
+00096:Thai Hung Cuong:3:5:7
+00093:Vu Phuong Dung:7:4:9
+00130:Tran Xuan Duy:3:5:3
+00116:Nguyen Van Ðuc:3:4:4
+00080:Vu Minh Duc:8:6:10
+00078:Nguyen Huy Hoang:9:6:5
+00015:Nguyen Van Hong:7:6:3
+00115:Ho Quang Hung:4:6:9
+00117:Tran Ba Khoa:7:6:8
+00079:Vu Trung Kien:9:9:9
+00109:Pham Ut Lan:9:7:8
+00100:Vu Ba Lam:7:8:9
+00104:Nguyen Duc Long:5:6:4
+00112:Nguyen Van Luan:10:5:8
+00094:Nguyen Tuan Minh:7:6:8
+00128:Do Phan Quang Nam:10:10:10
+00122:Bui Huu Nhon:0:0:0
+00129:Tran Quang Sang:5:5:5
+00086:Nguyen Xuan Thanh:7:6:8
+00132:Le Quyet Thang:7:6:6
+00126:Nguyen Manh Thang:7:9:8
+00125:Nguyen Viet Thang:8:6:8
+00119:Doan Thi Nu Trinh:0:6:8
+00091:Le Anh Tuan:10:5:8
+00108:Nguyen Anh Tuan:7:6:2
+00113:Ngo Van Vinh:7:4:3
+00102:Vu Duc Vinh:7:9:5
