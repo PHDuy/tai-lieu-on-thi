@@ -1,0 +1,6 @@
+sin 1
+toDegrees 1
+min 2
+max 2
+abs 1
+sqrt 1
