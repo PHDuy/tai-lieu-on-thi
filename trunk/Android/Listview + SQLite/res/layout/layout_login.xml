@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background"
+    tools:context="com.example.assigment2.LoginActivity" >
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="1"
+	    android:gravity="center_horizontal">
+	    <TextView
+	    android:id="@+id/app_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_title"
+        android:textSize="@dimen/fontSizeAppTitle"
+        android:textColor="@color/Pink_assignment"
+        android:fontFamily="HoboStd" />
+	</LinearLayout>
+	
+	<!-- Tai khoan | Mat khau- -->
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center_horizontal"
+	    android:layout_marginBottom="8dp">
+
+	    <EditText
+	        android:id="@+id/txtUsername"
+	        android:layout_width="250dip"
+	        android:layout_height="match_parent"
+	        android:background="@drawable/border_radius_2"
+	        android:drawableLeft="@drawable/rsz_2user" 
+	        android:hint="@string/hint_user"
+	        android:textColorHint="@color/Pink_assignment"
+	        android:textSize="@dimen/fontSizeMedium" />
+
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="1"
+	    android:gravity="center_horizontal">
+
+	    <EditText
+	        android:id="@+id/txtPassword"
+	        android:layout_width="250dip"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/border_radius_2"
+	        android:drawableLeft="@drawable/rsz_key"
+	        android:hint="@string/hint_password"
+	        android:inputType="textPassword"
+	        android:textColorHint="@color/Pink_assignment"
+	        android:textSize="@dimen/fontSizeMedium" />
+
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="1"
+	    android:gravity="center_horizontal">
+
+	    <Button 
+	        android:id="@+id/btnLogin"
+	        android:layout_width="250dip"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/nutvang"
+	        android:text="@string/btnLogin"
+	        android:textColor="@color/White"
+	        android:textSize="@dimen/fontSizeMedium"/>
+
+	</LinearLayout>
+	
+	
+	
+
+	
+
+</LinearLayout>
