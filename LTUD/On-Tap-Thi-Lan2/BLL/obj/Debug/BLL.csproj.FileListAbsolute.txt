@@ -1,0 +1,7 @@
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\bin\Debug\BLL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\bin\Debug\BLL.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\bin\Debug\DAL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\bin\Debug\DAL.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\obj\Debug\BLL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\BLL\obj\Debug\BLL.pdb

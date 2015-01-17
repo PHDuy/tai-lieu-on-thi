@@ -1,0 +1,5 @@
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\DAL\bin\Debug\DAL.dll.config
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\DAL\bin\Debug\DAL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\DAL\bin\Debug\DAL.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\DAL\obj\Debug\DAL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\DAL\obj\Debug\DAL.pdb

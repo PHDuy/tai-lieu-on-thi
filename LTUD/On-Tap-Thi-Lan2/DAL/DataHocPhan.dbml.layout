@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataHocPhan">
+  <DataContextMoniker Name="/DataHocPhanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0938efe3-a6b6-4237-93cc-6d4b5323c50e" absoluteBounds="2.75, 2.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataHocPhanDataContext/HocPhan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7052e14-d45b-4ec1-b749-0697048e9ab2" absoluteBounds="2.765, 2.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
