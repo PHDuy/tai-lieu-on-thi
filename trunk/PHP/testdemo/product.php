@@ -35,7 +35,6 @@ $total = $obj->count($params);
         'file' => 'listItems.php?type=p'
     ));
 	if($total>PER_PAGE){echo $pagination->display($params);}
-    
     ?>
 </ul>
 

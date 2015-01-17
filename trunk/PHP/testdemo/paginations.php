@@ -1,6 +1,4 @@
 <?php
-
-
 class Pagination {
 
     function display($params) {

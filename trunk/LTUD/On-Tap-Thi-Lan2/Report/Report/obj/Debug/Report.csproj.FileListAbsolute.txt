@@ -1,0 +1,20 @@
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\bin\Debug\De1.mdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.exe.config
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.exe
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.Form1.resources
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.exe
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.exe.config
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.exe
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.pdb
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\bin\Debug\De1.mdb
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.exe
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\bin\Debug\Report.pdb
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.Form1.resources
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\Report\Report\obj\Debug\Report.csproj.GenerateResource.Cache

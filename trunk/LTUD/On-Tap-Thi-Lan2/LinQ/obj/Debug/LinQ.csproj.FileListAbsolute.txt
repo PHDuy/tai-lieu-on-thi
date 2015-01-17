@@ -1,0 +1,16 @@
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\LinQ.exe.config
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\LinQ.exe
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\LinQ.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\BLL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\DAL.dll
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\BLL.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\bin\Debug\DAL.pdb
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.csprojResolveAssemblyReference.cache
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.Form1.resources
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.Properties.Resources.resources
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.csproj.GenerateResource.Cache
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.exe
+D:\Tai Nguyen\Bai Tap_ CSharp\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.pdb
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.exe
+C:\Users\Poseidon\Desktop\On-Tap-Thi-Lan2\LinQ\obj\Debug\LinQ.pdb

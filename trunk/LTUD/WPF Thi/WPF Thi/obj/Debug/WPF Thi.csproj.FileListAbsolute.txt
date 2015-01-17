@@ -1,0 +1,13 @@
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\bin\Debug\WPF Thi.exe.config
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\App.g.cs
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi_MarkupCompile.cache
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\bin\Debug\WPF Thi.exe
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\bin\Debug\WPF Thi.pdb
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\MainWindow.baml
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\MainWindow.g.cs
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi.g.resources
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF_Thi.Properties.Resources.resources
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi.csproj.GenerateResource.Cache
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi.exe
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi.pdb
+c:\users\poseidon\documents\visual studio 2013\Projects\WPF Thi\WPF Thi\obj\Debug\WPF Thi.csprojResolveAssemblyReference.cache
